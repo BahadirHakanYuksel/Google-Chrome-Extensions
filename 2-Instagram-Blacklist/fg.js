@@ -77,7 +77,7 @@ startBtn.addEventListener('click',async() => {
 })
 
 document.getElementById("closeTheBlackList").addEventListener('click',() => {
-    document.getElementById('blackListMain').remove();
+    document.getElementById("closeTheBlackList").parentElement.parentElement.remove();
 })
 
 function sleep(ms){

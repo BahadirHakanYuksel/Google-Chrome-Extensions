@@ -72,9 +72,9 @@
     font-size: 20px;
     background-color: #36363610;
     background: linear-gradient(45deg,rgba(54, 54, 54, 0.2),#36363610);
-    width: 100px;
-    height: 20px;
-    border-radius: 10px;
+    width: 130px;
+    height: 30px;
+    border-radius: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
